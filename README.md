@@ -59,6 +59,11 @@ Abonelik Sayfası
 <img src="https://www.linkpicture.com/q/IMG_0137.jpg" width ="300" height="600"/>
 </p>
 
+ <b> Detail Page </b>
+<p align="left">
+<img src="https://www.linkpicture.com/q/IMG_0138.jpg" width ="300" height="600"/>
+</p>
+
 
 
 ## Feedback
