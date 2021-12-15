@@ -49,7 +49,7 @@ Abonelik Sayfası
 
 
 ## Screenshots
- <b> Home Screen </b>
+ <b> Listing Page </b>
  
 ![App Screenshot](https://media.giphy.com/media/TzJ5b2QiQ32yZdSVqO/giphy.gif)
 
@@ -59,7 +59,7 @@ Abonelik Sayfası
 </p>
 
 
- <b> Subscription Screen </b>
+ <b> Subscription Page </b>
 <p align="left">
 <img src="https://www.linkpicture.com/q/IMG_0137.jpg" width ="300" height="600"/>
 </p>
