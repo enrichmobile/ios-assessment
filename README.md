@@ -13,23 +13,26 @@ Enrich mobile was founded in the beginning of 2020 with the aim of creating amaz
 
 The purpose of this assignment is creating an iOS app that will fetch the current pre-design instagram templates and display the templates in a clear User Interface.
 
-We are expecting you to implement a listing page and a detail page for the cars' adverts. On the listing page, you need to use the "listing" endpoint and show the advert list to the user. And, also you need to show a single-vehicle detail with the "detail" endpoint. You can find more information about endpoints in the Sandbox API section.
+We expect you to implement three screens consisting of a subscription screen, along with a listing page and a simple detail page of the listed content. 
 
-Sizden listeleme sayfası ve listelenen içeriğin basit detay sayfası ile birlikte abonelik ekranından oluşan üç adet ekran tasarlamanızı bekliyoruz. Aşağıdaki üç ekran için de istenilenler ile birlikte örnek ekran görüntülerini bulabilirsiniz. 
+You can find sample screenshots for all three screens below, along with the requested ones. You don’t have to implement all the exact details such as; colors, tab bar and etc. 
 
- Listeme Sayfası
-* Belirtilen endpoint’te bulunan “section” adlarına göre sayfanın üstünde menünün entegrasyonu
-* Her bir menüye tıklandığında, o menüye ait template’lerin sayfada aşağıdaki örnek screenshot gibi listelenmesi
-* Template seçildiğinde, detay sayfasına yönlendirilmesi
+<b>1. Listing Page </b>
 
-Detay Sayfası
-* Seçilen template’in fotoğrafının ekranda gösterilmesi
-* Eğer “isFree” false ise abonelik ekranına gönderen butonun alt kısımda belirmesi, true ise butonun gösterilmemesi.
+Integration of the menu at the top of the page according to the "section" names in the specified endpoint.
 
-Abonelik Sayfası
-* Aşağıdaki ekran görüntüsüne göre tasarımın oluşturulması
-* Çarpı butonu en son kaldığı sayfaya geri dönmeli
+When each menu is tapped, the templates of that menu are listed on the page, as in the example screenshot below.
+When the template is selected, it is redirected to the detail page. 
 
+<b>2. Detail Page </b>
+
+Displaying the photo of the selected template on the screen.
+If “isFree” is false, the button that directs to subscription screen appears, if it’s true, the button is not displayed. The screenshot is also added. 
+
+<b>3. Subscription Page</b>
+
+Creating the design according to the screenshot,
+cross button should close the subscription page. 
 
 ## API Reference
 
