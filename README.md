@@ -53,16 +53,18 @@ Abonelik Sayfası
  
 ![App Screenshot](https://media.giphy.com/media/TzJ5b2QiQ32yZdSVqO/giphy.gif)
 
+ <b> Detail Page </b>
+<p align="left">
+<img src="https://www.linkpicture.com/q/IMG_0138.jpg" width ="300" height="600"/>
+</p>
+
 
  <b> Subscription Screen </b>
 <p align="left">
 <img src="https://www.linkpicture.com/q/IMG_0137.jpg" width ="300" height="600"/>
 </p>
 
- <b> Detail Page </b>
-<p align="left">
-<img src="https://www.linkpicture.com/q/IMG_0138.jpg" width ="300" height="600"/>
-</p>
+
 
 
 
